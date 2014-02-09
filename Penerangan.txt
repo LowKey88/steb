@@ -1,0 +1,14 @@
+Sample customer order. A. Akan jadi unic ID iaitu no IC B. Adalah tarikh tempahan. C. Kuantiti dalam gram D. Harga segram E. Adalah hasil darab antara C X D = E F. Adalah diskaun yg layak dapat. Formuka diskaun adalah C x rm12 bagi gold bar 999.9 manakala C x rm8.50 bagi barang kemas 916. G. Adalah tarikh layak dapat diskaun sekiranya tarikh pada B dari tarikh 1hb hingga 15hb maka tarikh layak diskaun dibank in pada 15hb next month dan 15hb setiap bulan. Manakala sekiranya tarikh pada B antara tarikh 16Hb hingga 28hb Maka tarikh diskaun akan dibank in adalah pada tarikh 28hb bermula next mont n setiap 28hb. H. Free number untuk akaun bank yg perlu dibank in diskaun.
+
+
+Perlu tambah satu field yg mana bonus diskaub sebanyak berapa RM atas setiap gram untuk pembelian pada bulan tertentu. Contoh kalu tok belagak umum diskaun akan ditambah kepada rm13 sekiranya customer buat belian pada bulan januari. Jadi sapa yg buat belian pada januari layak dapat extra bonus pada bulan 2 sebanyak rm13. Untuk bulan seterusnya balik pada diskaun asal.
+
+Setiap kali customer beli maka setiap kali itu juga kena key in order baru.
+
+Output pula adalah seperti order form. Tapi kita boleh semak setiap customer mempunyai berapa kali belian dan jumlah gram yg dah dibeli serta jumlah diskaub yg perlu dibayar..
+
+Kalu lagi power boleh link ngan log in bank sekiranya buat belian.
+
+Dan alert dengan email sekiranya ada nak buat belian atau buyback.
+
+Bahagian buyback juga perlu.
