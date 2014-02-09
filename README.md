@@ -1,8 +1,10 @@
 Project STEB
 ====
 
-1) Download Gambar orderform.jpg
+1) Open Material Folder
 
-2) Baca Penerangan.txt
+2) Download Gambar orderform.jpg
+
+3) Baca Penerangan.txt
 
 
